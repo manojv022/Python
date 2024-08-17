@@ -1,1 +1,1 @@
-### Data type is allocatie memory space for our inputs.
+### Data type is allocatie(provide) memory space for our inputs.
