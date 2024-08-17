@@ -2,6 +2,8 @@
 
 # Compiler
 
+- `Source Code → Compilation to Bytecode → Execution by PVM → Output`
+
 
 ![image](https://github.com/user-attachments/assets/22a91190-b8a6-4cf3-8879-dbadddbb5441)
 
