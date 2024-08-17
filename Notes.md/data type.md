@@ -1,3 +1,4 @@
 - ####  Data type is allocatie(provide) memory space for our inputs inside our program.
 - #### 1 byts = 8 bits
 - #### C and C++ programing language and whose corresponding data types varying their memory spaces from one OS to another OS , therefore these are platform dependent.
+- #### Java is platform independent(but memory byts is limited).
