@@ -89,3 +89,8 @@ Python is dynamically typed because:
 - It offers flexibility and ease of use, allowing for rapid development and versatile programming.
 
 This approach to typing contrasts with statically typed languages, where types are checked at compile time and must be explicitly declared.
+
+
+
+![image](https://github.com/user-attachments/assets/fce3863a-7ea7-433a-9b72-d8bda02b47d3)
+
