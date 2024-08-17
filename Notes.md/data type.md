@@ -64,3 +64,7 @@ Python’s platform independence is achieved through:
 - **Abstracted Execution**: The Python Virtual Machine that provides a consistent runtime environment.
 
 These factors together allow Python code to be written once and run anywhere that has a compatible Python interpreter, fulfilling the goal of platform independence.
+
+
+![image](https://github.com/user-attachments/assets/d79e5506-d3e3-4cfe-bb7b-0fdc3526afbd)
+
