@@ -94,3 +94,12 @@ This approach to typing contrasts with statically typed languages, where types a
 
 ![image](https://github.com/user-attachments/assets/fce3863a-7ea7-433a-9b72-d8bda02b47d3)
 
+
+
+
+### Why Python is heigh level language:
+Python is considered a high-level language because it provides a high level of abstraction from machine-level details, simplifies programming with readable syntax, offers a rich standard library, uses dynamic typing, and is interpreted rather than compiled to machine code. These features collectively make Python a powerful and accessible language for developers, allowing them to focus more on solving problems and less on managing low-level details.
+
+
+
+
