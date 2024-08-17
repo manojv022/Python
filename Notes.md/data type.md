@@ -2,3 +2,4 @@
 - #### 1 byts = 8 bits
 - #### C and C++ programing language and whose corresponding data types varying their memory spaces from one OS to another OS , therefore these are platform dependent.
 - #### Java is platform independent(but memory byts is limited).
+- #### Python is one ot the platform independent language because "in Python progaming Execution all values are Stored in the form <OBJECTS>".    All the objects can store unlimited number of values and they will not depends on any OS.
