@@ -1,8 +1,8 @@
 - ## Data Representation:
-- 1. 2648585253 = integer
-  2. 865.865 ,84.88653 = floating value
-  3. True , False = Boolen value
-  4. name , india , mumbai = String 
+- 1. 2648585253 = integer literal
+  2. 865.865 ,84.88653 = floating literal
+  3. True , False = Boolen literal
+  4. name , india , mumbai = String literal 
 
 
 
