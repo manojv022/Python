@@ -23,3 +23,6 @@
 - No keywords to be used as variables name because all the keywords are special meaning to the language compilers.
 - all pre-defined class names(int,float,etc) acn be used as variable names.
 - All the variable name as case-sensitive
+
+![image](https://github.com/user-attachments/assets/ced89ff9-741a-472e-90f9-76da18b9e7b8)
+![Uploading image.png…]()
