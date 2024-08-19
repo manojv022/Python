@@ -9,7 +9,7 @@
 
 - ### The main purpose of data types is that to allocate sufficient amount of memory space for input of the program.
 - This input repersent the type of data present inide a variable.
-
+  - #### There are 14 data types in python.
 - ####  Data type is allocatie(provide) memory space for our inputs inside our program.
 - #### 1 byts = 8 bits
 - #### C and C++ programing language and whose corresponding data types varying their memory spaces from one OS to another OS , therefore these are platform dependent.
