@@ -15,3 +15,11 @@
 - a Variables is an Identifer , whose valuescan be changed during execution of the program.
 - All the Variables in Python are called Objects.
 - Behind of all Objects, there exist a class
+
+#### Rules for using variables :
+- A variable name is a combination of abphabets,digits and a special symbol Underscore(_).
+- The first letter of variable names must start with alphabet or underscore.
+- within the variables name , special symbols ae not allowed except underscore.
+- No keywords to be used as variables name because all the keywords are special meaning to the language compilers.
+- all pre-defined class names(int,float,etc) acn be used as variable names.
+- All the variable name as case-sensitive
