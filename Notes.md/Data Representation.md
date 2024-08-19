@@ -25,4 +25,8 @@
 - All the variable name as case-sensitive
 
 ![image](https://github.com/user-attachments/assets/ced89ff9-741a-472e-90f9-76da18b9e7b8)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/329652a4-151b-4a33-82dc-86dce3057deb)
+
+![image](https://github.com/user-attachments/assets/ef9c2ece-0ee3-47da-9893-cfd12721100e)
+![image](https://github.com/user-attachments/assets/aa3431fd-15c8-4f04-87be-de5d725a2d57)
+
