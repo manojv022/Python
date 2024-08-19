@@ -8,6 +8,7 @@
  `4. name , india , mumbai = String literal`
 
 - ### The main purpose of data types is that to allocate sufficient amount of memory space for input of the program.
+- This input repersent the type of data present inide a variable.
 
 - ####  Data type is allocatie(provide) memory space for our inputs inside our program.
 - #### 1 byts = 8 bits
