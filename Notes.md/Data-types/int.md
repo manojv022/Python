@@ -13,8 +13,13 @@
 - the digit in binary number system are digits: (0,1).
 - Base:2
 - To store binary data in python programing, binary data must be preceded with either ( 0b or 0B).
-- 
+#### Octal Number system:
+- The digits in octal number system are Digits: ( 01234567 )
+- Base:8
+- To store octal  data in python programing , octal data must be preceded with  ( 0o or 0O ).ff
 
 
 
-f![image](https://github.com/user-attachments/assets/8b1a9841-88fe-4447-b145-fc9a4a80ce68)
+![image](https://github.com/user-attachments/assets/8b1a9841-88fe-4447-b145-fc9a4a80ce68)
+
+![image](https://github.com/user-attachments/assets/e793c7af-586d-44bf-801d-e27f3af1c335)
