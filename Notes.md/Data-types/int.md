@@ -6,7 +6,7 @@
    - 1. Decimal number system(Default) (0123456789) , [Base=10]
     - 2. Binary number system(0,1)
      - 3. Octal Number system (01234567)
-    - 4. Hexa decimal number system(0123456789ABCDEF) , hexadecimal ( 0x or 0X ) .   
+    - 4. Hexa decimal number system(0123456789A(11),B(12),C(13),D(14),E(15),F(16) , hexadecimal ( 0x or 0X ) .   
 
 
 #### Binary Number System: 
