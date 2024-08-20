@@ -28,3 +28,10 @@
 ![image](https://github.com/user-attachments/assets/18540204-639c-49dd-a5bf-60ac60e6de11)
 
 ![image](https://github.com/user-attachments/assets/eb7d31d3-6302-4455-8424-dd3c6a204f58)
+
+
+
+
+### Base Conversion:
+![image](https://github.com/user-attachments/assets/d1502984-1a06-43d5-bf5e-cbfc7097a511)
+
