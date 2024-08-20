@@ -3,7 +3,8 @@
      
 - with int data type, we can also store number system data.
 - in any programin language(python,C,C++,java), we have 4 types of Number systems they are,
-   - 1. Decimal number system(Default) (0123456789)
+   - 1. Decimal number system(Default) (0123456789) , [Base=10]
     - 2. Binary number system(0,1)
      - 3. Octal Number system (01234567)
     - 4. Hexa decimal number system(0123456789ABCDEF)     
+
