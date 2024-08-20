@@ -6,4 +6,4 @@
    - 1. Decimal number system(Default)
     - 2. Binary number system(0,1)
      - 3. Octal Number system (01234567)
-      - 4. Hexa decimal number system(0123456789ABCDEF)     
+    - 4. Hexa decimal number system(0123456789ABCDEF)     
