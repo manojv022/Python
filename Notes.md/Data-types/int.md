@@ -8,3 +8,13 @@
      - 3. Octal Number system (01234567)
     - 4. Hexa decimal number system(0123456789ABCDEF)     
 
+
+#### Binary Number System: 
+- the digit in binary number system are digits: (0,1).
+- Base:2
+- To store binary data in python programing, binary data must be preceded with either ( 0b or 0B).
+- 
+
+
+
+f![image](https://github.com/user-attachments/assets/8b1a9841-88fe-4447-b145-fc9a4a80ce68)
