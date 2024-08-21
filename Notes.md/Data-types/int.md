@@ -43,3 +43,4 @@
 ### Base Conversion:
 ![image](https://github.com/user-attachments/assets/d1502984-1a06-43d5-bf5e-cbfc7097a511)
 
+![image](https://github.com/user-attachments/assets/36681e1c-45e6-474b-8b7e-bf146755ca5f)
