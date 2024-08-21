@@ -28,6 +28,9 @@
    
  - 2. oct(): this function is used for converting other number system data into Octal number system.         
 
+- 3. hex(): this funtion is used for converting other number system data into Hexa deccimal number system.
+ 
+     
 ![image](https://github.com/user-attachments/assets/8b1a9841-88fe-4447-b145-fc9a4a80ce68)
 
 ![image](https://github.com/user-attachments/assets/e793c7af-586d-44bf-801d-e27f3af1c335)
