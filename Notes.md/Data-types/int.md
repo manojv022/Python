@@ -24,8 +24,9 @@
    - 1. bin()
    - 2. oct()
    - 3. hex()
-- 1. bin() : this funcction is used for converting other number system data into binary number system. 
-          
+- 1. bin() : this funcction is used for converting other number system data into binary number system.
+   
+ - 2. oct(): this function is used for converting other number system data into Octal number system.         
 
 ![image](https://github.com/user-attachments/assets/8b1a9841-88fe-4447-b145-fc9a4a80ce68)
 
