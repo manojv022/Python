@@ -18,7 +18,14 @@
 - Base:8
 - To store octal  data in python programing , octal data must be preceded with  ( 0o or 0O ).
 
-
+### Base Conversion:
+- The purpose of base conversion technique in python is that "ccconverting one base value into another base value".
+- In python, we have 3 base conversion function they are :
+   - 1. bin()
+   - 2. oct()
+   - 3. hex()
+- 1. bin() : this funcction is used for converting other number system data into binary number system. 
+          
 
 ![image](https://github.com/user-attachments/assets/8b1a9841-88fe-4447-b145-fc9a4a80ce68)
 
