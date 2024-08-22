@@ -9,3 +9,6 @@
    - `2. imag`
    
 ![image](https://github.com/user-attachments/assets/30753d9a-dba1-43c6-8e51-ecceb29f2363)
+
+
+![image](https://github.com/user-attachments/assets/8972fbe6-b58b-4b69-a810-7c1abde24907)
