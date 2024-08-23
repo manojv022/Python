@@ -7,6 +7,9 @@
 - To get real and imaginary parts from coplex object we use two pre-defined attributies they are
    - `1. real`
    - `2. imag`
+ 
+- On Complex data, we can perform operations like addition, Substraction, Multiplication ,Division ,  for eg ; a=5&j , b=9+4j ,c=a+b.
+- In complex data representation for real part , we can use any number system value but for imaginary part we must use only decimal number system values only but not other number system values.
    
 ![image](https://github.com/user-attachments/assets/30753d9a-dba1-43c6-8e51-ecceb29f2363)
 
