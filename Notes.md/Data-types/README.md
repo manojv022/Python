@@ -17,7 +17,7 @@
 
 ### 2. Sequence Category Data Type:
 
-
+- `To store sequence values.`
 
 
 
