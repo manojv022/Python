@@ -18,7 +18,11 @@
 ### 2. Sequence Category Data Type:
 
 - `To store sequence values.`
-
+- Sequence category data type-in this category,we have data types-
+   - `1. str.`
+      -  `2.  bytes.`
+      -   `3. bytearray .`
+       - `4. range.`
 
 
 ![image](https://github.com/user-attachments/assets/bb44d03d-6c2e-448c-84d9-322ed57b8cdd)
