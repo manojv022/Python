@@ -17,7 +17,7 @@
 
 ### 2. Sequence Category Data Type:
 
-- `To store sequence values.`
+- The purpose of sequence category data types is that `To Store Sequence of Values.`
 - Sequence category data type-in this category,we have data types-
    - `1. str.`
       -  `2.  bytes.`
