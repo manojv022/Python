@@ -1,5 +1,10 @@
 #### 1. Fundamental Data Type:
 - `To Store a Single Value.`
+- 4 Type:
+   - 1. int
+   -  2. float
+   - 3. bool
+   - 4. complex
 
 #### Python contains several inbuilt function:
 - 1. `type( )` : To check the type of variable.
