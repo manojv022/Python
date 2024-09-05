@@ -1,4 +1,4 @@
-# Both Compiler and interpreter are Program that Convert the Source Code (high level language) into Machine Code(low level language). 
+### Both Compiler and interpreter are Program that Convert the Source Code (high level language) into Machine Code(low level language). 
 
 # Compiler
 
