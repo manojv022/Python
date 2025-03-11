@@ -1,4 +1,4 @@
-# Do not run this file "day10.py" 💀❌💀❌💀 (these are just notes)
+ # Do not run this file "day10.py" 💀❌💀❌💀 (these are just notes)
 
 #step 1 install docker in ec2 -------------------------------------------------------
 # Add Docker's official GPG key:
